@@ -7,16 +7,22 @@ This is the code to for the paper [Optimal Pricing with a Single Point][opt-pape
 ## Specification of dependencies
 
 cvxopt==1.3.0,
+
 matplotlib==3.4.3,
+
 numpy==1.20.3,
+
 scipy==1.7.1,
+
 seaborn==0.11.2.
 
 
 ## How to get results
 
 1- Install dependencies from requirements.txt
+
 2- Run each cell in reproduce_results.ipynb to reproduce the corresponding result described in the heading comment of the cell.
+
 3- The figure outputs are stored in the folder figures the data output is stored in dict_results.pickle
 
 
