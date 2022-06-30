@@ -6,6 +6,8 @@ This is the code to for the paper [Optimal Pricing with a Single Point][opt-pape
 
 ## Specification of dependencies
 
+Python 3.7.6; 
+
 cvxopt==1.3.0,
 
 matplotlib==3.4.3,
