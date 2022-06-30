@@ -8,15 +8,7 @@ This is the code to for the paper [Optimal Pricing with a Single Point][opt-pape
 
 Python 3.7.6; 
 
-cvxopt==1.3.0,
-
-matplotlib==3.4.3,
-
-numpy==1.20.3,
-
-scipy==1.7.1,
-
-seaborn==0.11.2.
+cvxopt==1.3.0, matplotlib==3.4.3, numpy==1.20.3, scipy==1.7.1, seaborn==0.11.2.
 
 
 ## How to get results
